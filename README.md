@@ -14,3 +14,5 @@ Chirpy Jekyll Theme
 - `_sass` : 커스터마이징 용 css 파일이 들어있는 폴더
 - `_tabs` : 왼쪽 사이드바의 기본 탭메뉴들에 대한 랜딩페이지 md 파일이 들어있는 폴더
 - `assets/img` : 포스팅에 넣을 이미지 파일이 들어있는 폴더
+# 괜찮은 에디터
+https://stackedit.io/
