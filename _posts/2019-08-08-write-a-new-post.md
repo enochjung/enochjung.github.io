@@ -1,4 +1,4 @@
----
+--
 title: Writing a New Post
 author:
   name: Cotes Chung
