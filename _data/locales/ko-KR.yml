@@ -29,16 +29,16 @@ panel:
 
 #  The liquid date format › http://strftime.net/
 date_format:
-  tooltip: '%F, %R %z'
+  tooltip: "%F, %R %z"
   post:
-    long: '%Y년 %m월 %d일'
-    short: '%m월 %d일'
-    archive_month: '%b월'
+    long: "%Y년 %m월 %d일"
+    short: "%m월 %d일"
+    archive_month: "%b월"
 
 copyright:
   # Shown at the bottom of the post
   license:
-    template: 이 기사는 저작권자의 :LICENSE_NAME 라이센스를 따릅니다.
+    template: #이 기사는 저작권자의 :LICENSE_NAME 라이센스를 따릅니다.
     name: CC BY 4.0
     link: https://creativecommons.org/licenses/by/4.0/
 
